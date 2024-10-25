@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.intentexample1"
+    namespace = "id.ac.polbeng.uts_fitridestika_kubus"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.intentexample1"
+        applicationId = "id.ac.polbeng.uts_fitridestika_kubus"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
